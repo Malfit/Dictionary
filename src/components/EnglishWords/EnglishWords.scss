@@ -1,0 +1,14 @@
+
+.cardsWrapper{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  height: 100vh;
+  background-color: black;
+}
+
+.flipCardWrapper{
+  position: relative;
+  margin: 2px;
+  width: calc(50vw - 4px);
+}
