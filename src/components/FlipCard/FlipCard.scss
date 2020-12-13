@@ -1,3 +1,9 @@
+
+.flipCardWrapper{
+  position: relative;
+  width: calc(50% - 4px);
+}
+
 .c {
   position: absolute;
   top: 0px;
@@ -8,7 +14,7 @@
   font-size: 20px;
   width: 100%;
   height: 100%;
-  // padding: 2px;
+  padding: 2px;
   border: solid 2px black;
   cursor: pointer;
   will-change: transform, opacity;

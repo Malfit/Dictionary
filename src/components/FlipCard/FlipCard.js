@@ -10,7 +10,7 @@ const FlipCard = ({ rus, eng }) => {
     config: { mass: 5, tension: 500, friction: 80 }
   })
   return (
-    <div onClick={() => setFlipped(!flipped)}>
+    <div onClick={() => setFlipped(!flipped)} className="flipCardWrapper">
       <a.div
         className="c back" 
         style={{ opacity: opacity.interpolate(o => 1 - o), transform }}

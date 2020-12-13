@@ -9,13 +9,11 @@ const EnglishWords = () => {
     <div className="cardsWrapper">
       {defaultWords.map(item => {
         return (
-          <div key={item._id} className="flipCardWrapper">
-            <FlipCard
-              rus={item.rus}
-              eng={item.eng}
-            />
-            {/* {item.eng} */}
-          </div>
+          <FlipCard
+            key={item._id}
+            rus={item.rus}
+            eng={item.eng}
+          />
         )
       })
     }
