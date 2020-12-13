@@ -1,8 +1,8 @@
 export const defaultWords = [
   {
     _id: '1',
-    rus: 'hurt',
-    eng: 'повредить',
+    rus: 'повредить',
+    eng: 'hurt',
   },
   {
     _id: '2',
