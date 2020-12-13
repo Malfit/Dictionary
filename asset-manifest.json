@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Dictionary/static/css/main.eb05034e.chunk.css",
+    "main.js": "/Dictionary/static/js/main.50f3bf38.chunk.js",
+    "main.js.map": "/Dictionary/static/js/main.50f3bf38.chunk.js.map",
+    "runtime-main.js": "/Dictionary/static/js/runtime-main.d82b6931.js",
+    "runtime-main.js.map": "/Dictionary/static/js/runtime-main.d82b6931.js.map",
+    "static/js/2.a4eabd32.chunk.js": "/Dictionary/static/js/2.a4eabd32.chunk.js",
+    "static/js/2.a4eabd32.chunk.js.map": "/Dictionary/static/js/2.a4eabd32.chunk.js.map",
+    "static/js/3.0c3dd954.chunk.js": "/Dictionary/static/js/3.0c3dd954.chunk.js",
+    "static/js/3.0c3dd954.chunk.js.map": "/Dictionary/static/js/3.0c3dd954.chunk.js.map",
+    "index.html": "/Dictionary/index.html",
+    "static/css/main.eb05034e.chunk.css.map": "/Dictionary/static/css/main.eb05034e.chunk.css.map",
+    "static/js/2.a4eabd32.chunk.js.LICENSE.txt": "/Dictionary/static/js/2.a4eabd32.chunk.js.LICENSE.txt",
+    "static/media/6f333bf5198053737bc2f93e4f539f9d.5b3b5409.png": "/Dictionary/static/media/6f333bf5198053737bc2f93e4f539f9d.5b3b5409.png",
+    "static/media/Welcome-Sticky-Note.7adf8ed6.png": "/Dictionary/static/media/Welcome-Sticky-Note.7adf8ed6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d82b6931.js",
+    "static/js/2.a4eabd32.chunk.js",
+    "static/css/main.eb05034e.chunk.css",
+    "static/js/main.50f3bf38.chunk.js"
+  ]
+}
